@@ -1,0 +1,113 @@
+{
+  "name": "harryfyodor",
+  "motto": "不是每一条鱼都生活在同一片海里。",
+  "about": "我是通信工程大三的一名学生，正在努力成为一名前端工程师。",
+  "skills": [
+    {
+      "title": "HTML/CSS",
+      "detail": "熟悉`HTML/CSS`，对常用`HTML5/CSS3`功能有一定了解；可以编写简单的移动端页面。"
+    },
+    {
+      "title": "JavaScript",
+      "detail": "熟悉`JavaScript`，能够用原生`JavaScript`实现数据交互和动画。了解`ECMAScript6`。"
+    },
+    {
+      "title": "React",
+      "detail": "熟悉`React`的基本操作，能够配合`redux & react-router`独立完成单页应用"
+    },
+    {
+      "title": "Backbone",
+      "detail": "熟悉`Backbone`应用的构建，能够独立完成单页应用。"
+    },
+    {
+      "title": "Nodejs/Express",
+      "detail": "能够使用`Express`框架快搭建简易后端，与前端实现`CRUD`功能；了解原生`Nodejs`操作。"
+    },
+    {
+      "title": "Tools",
+      "detail": "使用过`AMD/CMD`标准实现前端模块化；使用过前端自动工具`Gulp`；使用过`Webpack`；使用过`CSS`预处理器`SASS`与`LESS`"
+    }
+  ],
+  "proj": [
+    {
+      "title": "基于Gulp的个人页面生成器（本页面的生成器）| 个人项目",
+      "code": "https://github.com/harryfyodor/page-generator",
+      "demo": "#"
+    },
+    {
+      "title": "基于Backbone + node的个人简历生成器 | 个人项目",
+      "code": "https://github.com/harryfyodor/backbone-resume-generator",
+      "demo": "https://github.com/harryfyodor/backbone-resume-generator"
+    },
+    {
+      "title": "基于React + Express的个人博客SPA | 个人项目",
+      "code": "https://github.com/harryfyodor/React-Express-SPA-blog",
+      "demo": "https://harryfyodor.tk"
+    },
+    {
+      "title": "百度前端技术学院2016 | 个人练习",
+      "code": "https://github.com/harryfyodor/ife-2016",
+      "demo": "http://projects.harryfyodor.tk/collections/ife-2016/index.html"
+    },
+    {
+      "title": "百度前端技术学院2015 | 个人练习",
+      "code": "https://github.com/harryfyodor/ife-harry",
+      "demo": "http://projects.harryfyodor.tk/collections/ife-2016/collections/ife-2015/index.html"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Backbone源码解读（三）",
+      "link": "https://segmentfault.com/a/1190000006807896",
+      "time": "2016-09-04"
+    },
+    {
+      "title": "Backbone源码解读（二）",
+      "link": "https://segmentfault.com/a/1190000006731780",
+      "time": "2016-08-27"
+    },
+    {
+      "title": "Backbone源码解读（一）",
+      "link": "https://segmentfault.com/a/1190000006697372",
+      "time": "2016-08-24"
+    },
+    {
+      "title": "深入JavaScript（一）this & prototype",
+      "link": "https://segmentfault.com/a/1190000006771134",
+      "time": "2016-08-31"
+    },
+    {
+      "title": "基于 Backbone-node 的个人简历生成器",
+      "link": "https://segmentfault.com/a/1190000006683794",
+      "time": "2016-07-08"
+    },
+    {
+      "title": "从零开始编写 React-Express 单页博客应用",
+      "link": "https://segmentfault.com/a/1190000006082056",
+      "time": "2016-07-26"
+    },
+    {
+      "title": "react-redux-express 异步前后端数据交互",
+      "link": "https://segmentfault.com/a/1190000005906458",
+      "time": "2016-07-08"
+    }
+  ],
+  "contact": [
+    {
+      "title": "weibo",
+      "info": "harryfyodor"
+    },
+    {
+      "title": "github",
+      "info": "harryfyodor"
+    },
+    {
+      "title": "email",
+      "info": "wuhaiweideyouxiang@163.com"
+    },
+    {
+      "title": "blogs (on SegmentFault)",
+      "info": "https://segmentfault.com/u/harryfyodor"
+    }
+  ]
+}
