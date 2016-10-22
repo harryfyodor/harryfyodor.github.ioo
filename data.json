@@ -9,19 +9,19 @@
     },
     {
       "title": "JavaScript",
-      "detail": "熟悉`JavaScript`，能够用原生`JavaScript`实现数据交互和动画。了解`ECMAScript6`。"
+      "detail": "熟悉`JavaScript`，能够用原生`JavaScript`实现数据交互和动画。能够写`ECMAScript6`代码。"
     },
     {
       "title": "React",
-      "detail": "熟悉`React`的基本操作，能够配合`redux & react-router`独立完成单页应用"
+      "detail": "熟悉`React`的基本操作，能够配合`redux & react-router`独立完成单页应用。"
     },
     {
       "title": "Backbone",
-      "detail": "熟悉`Backbone`应用的构建，能够独立完成单页应用。"
+      "detail": "熟悉`Backbone`应用的构建，能够独立完成单页应用。阅读过`Backbone`源码。"
     },
     {
       "title": "Nodejs/Express",
-      "detail": "能够使用`Express`框架快搭建简易后端，与前端实现`CRUD`功能；了解原生`Nodejs`操作。"
+      "detail": "能够使用`Express`框架搭建后端，与前端实现`CRUD`功能；了解原生`Nodejs`操作。"
     },
     {
       "title": "Tools",
@@ -29,6 +29,11 @@
     }
   ],
   "proj": [
+    {
+       "title": "基于React + Express的时间管理网站Colors | 个人项目",
+       "code": "https://github.com/harryfyodor/colors",
+       "demo": "https://colors.harryfyodor.tk"
+    },
     {
       "title": "基于Gulp的个人页面生成器（本页面的生成器）| 个人项目",
       "code": "https://github.com/harryfyodor/page-generator",
@@ -77,7 +82,7 @@
       "time": "2016-08-31"
     },
     {
-      "title": "基于 Backbone-node 的个人简历生成器",
+      "title": "基于 Backbone-Nodejs 的个人简历生成器",
       "link": "https://segmentfault.com/a/1190000006683794",
       "time": "2016-07-08"
     },
@@ -87,7 +92,7 @@
       "time": "2016-07-26"
     },
     {
-      "title": "react-redux-express 异步前后端数据交互",
+      "title": "React-Redux-Express 异步前后端数据交互",
       "link": "https://segmentfault.com/a/1190000005906458",
       "time": "2016-07-08"
     }
